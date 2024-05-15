@@ -11,6 +11,9 @@ This project is in very early stage now, but will be updated.
 Recommended IDE is [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/). If installed you can open `YNSRC.sln` file directly.
 Otherwise you can use VS Code or another IDE with .NET CLI tools.
 
+# Attributions
+
+* [Fatcow Icons](https://github.com/gammasoft/fatcow)
 
 # License
 The Unlicense. Feel free to use or change it how you need.
