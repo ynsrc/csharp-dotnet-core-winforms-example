@@ -8,7 +8,7 @@ This project is in very early stage now, but will be updated.
 
 
 # Build And Run
-Recommended IDE ise [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/). If installed you can open `YNSRC.sln` file directly.
+Recommended IDE is [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/). If installed you can open `YNSRC.sln` file directly.
 Otherwise you can use VS Code or another IDE with .NET CLI tools.
 
 
